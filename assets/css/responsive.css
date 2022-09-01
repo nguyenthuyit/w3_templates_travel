@@ -1,0 +1,11 @@
+@media(max-width: 739px){
+    .content{
+        display: block;
+    }
+    .content .gird-item{
+        margin-bottom: 24px;
+    }
+    .header-img .info-header{
+        display: none;
+    }
+}
